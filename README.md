@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[!(http://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/khyrki/) 
-[![Gmail Badge](https://https://image.flaticon.com/icons/png/512/281/281769.png=mailto:khyrkimitsunobi@gmail.com)](mailto:khyrkimitsunobi@gmail.com)
+
 
 
 
