@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-![](https://raw.githubusercontent.com/khyrki/khyrki/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khyrki&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khyrki&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khyrki&theme=nord_dark)
 
 
 
