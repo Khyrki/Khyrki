@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+![](https://raw.githubusercontent.com/khyrki/khyrki/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
 
 
