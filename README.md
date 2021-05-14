@@ -11,6 +11,7 @@ I'm Khyrki Mitsunobi - 24 years old, Jr Web Developer
 Skill set:
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="auto" width="30">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="auto" width="30">
 </p>
 
 
