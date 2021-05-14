@@ -7,7 +7,7 @@ I'm Khyrki Mitsunobi - 24 years old, Jr Web Developer
 - 🇧🇷 I'm Brazilian
 - 🍺 I like to drink with friends
 - 🍿 I like to watch movies
-- 🌱 I’m currently learning mySQL
+- 🌱 I’m currently learning mySQL and TypeScript
 
 ### Skill set:
 <p align="left">
