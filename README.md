@@ -1,9 +1,13 @@
-### Hi there 👋
+<h1>Hi, it's me!<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /><h1/>
 
+
+
+
+<!--
 <p align="center">
   <img src="https://www.futuremind.com/m/job_offers/experienced-android-developer-warsawtychy-or-remote/r%C3%B3%C5%BCne2_Obszar_roboczy_1_kopia_6.png" />
 </p>
-
+-->
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khyrki&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khyrki&theme=nord_dark)
