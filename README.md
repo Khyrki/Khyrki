@@ -24,7 +24,7 @@ I'm Khyrki Mitsunobi - 24 years old, Jr Web Developer
 </p>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khyrki&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khyrki&theme=nord_bright)
 
 
 
