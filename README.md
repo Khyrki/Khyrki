@@ -3,11 +3,11 @@
 ### 🕵️‍♂️About me:
 <img align='right' src="https://visualstudio.microsoft.com/wp-content/uploads/2020/12/subscribe.png" width="400">
 
-I'm Khyrki Mitsunobi - 24 years old, Jr Web Developer
+I'm Khyrki Mitsunobi - 25 years old, Jr Web Developer
 - 🇧🇷 I'm Brazilian
 - 🍺 I like to hang out with friends
 - 🍿 I like to watch movies
-- 🌱 I’m currently learning mySQL and TypeScript
+- 🌱 I’m currently learning MongoDB and TypeScript
 
 ### Skill set:
 <p align="left">
