@@ -12,8 +12,8 @@ I'm Khyrki Mitsunobi - 25 years old, Jr Web Developer
 ### Skill set:
 <p align="left">
 <img src="https://api.iconify.design/logos:html-5.svg" height="40" width="40">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="auto" width="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="auto" width="37">
+<img src="https://api.iconify.design/vscode-icons:file-type-js-official.svg" height="40" width="40">
+<img src="https://api.iconify.design/vscode-icons:file-type-css.svg" height="40" width="40">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="auto" width="30">
 <img src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" height="auto" width="30">
 <img src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b" height="auto" width="30">
