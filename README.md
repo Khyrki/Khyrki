@@ -3,7 +3,7 @@
 ### 🕵️‍♂️About me:
 <img align='right' src="https://visualstudio.microsoft.com/wp-content/uploads/2020/12/subscribe.png" width="400">
 
-I'm Khyrki Mitsunobi - 26 years old, Jr Web Developer
+I'm Khyrki Mitsunobi - 26 years old, Pl Backend Developer
 - 🇧🇷 I'm Brazilian
 - 🌱 I’m currently learning nextJS
 
