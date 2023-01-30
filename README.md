@@ -5,7 +5,7 @@
 
 I'm Khyrki Mitsunobi - 26 years old, Pl Backend Developer
 - 🇧🇷 I'm Brazilian
-- 🌱 I’m currently learning nextJS
+- 🌱 I’m currently learning nestJS
 
 ### Skill set:
 <p align="left">
